@@ -1,0 +1,3 @@
+//! below here all one synchronous code onAddQuote func
+
+//! we cannot setIsEntered to false in submit handler bcz this is little bit late and setIsEntering wont go through
